@@ -1,5 +1,7 @@
 # TODO
 
+* Load Selectr using Yarn instead of CDN
+
 ## Offer this settings in admin
 
 * Slider delay
